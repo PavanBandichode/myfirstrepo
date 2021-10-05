@@ -88,6 +88,7 @@ p{
     border: 10px solid #5873e2;
     outline: 5px solid black;
     box-shadow: 0 0 0 20px #90ffa9;
+    border-radius: 2px;
     
     
     
@@ -98,6 +99,7 @@ p{
 .marker {
     text-align: center;
     margin-top: 60px;
+    
 }
 .circle{
     width: 20px;
@@ -109,6 +111,7 @@ p{
 }
 .shadow{
     background-color: #90ffa9;
+    
 }
 .outline{
     background-color: black;
@@ -144,6 +147,10 @@ hr{
     margin: 5px 5px;
     border: 2px solid black;
     vertical-align: middle;
+}
+.radius{
+    
+    border-radius: 10%;
 }
 /*page 2*/
 
